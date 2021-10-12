@@ -5,7 +5,7 @@ BrainOC free  x86-64 OS written by Assembly, C.
 Read [Documentation](https://brainos.ml)
 ## Build and Run
 Download [ISO-File](https://brainos.ml/download/)
-## Relase and Version
+## Release and Version
 Version: 1.0.2 (build 125)
 - Fix bugs.
 
