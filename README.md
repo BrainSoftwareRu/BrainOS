@@ -1,5 +1,5 @@
 # BrainOS
-![Image](https://github.com/BrainSoftwareRu/screenshots/1.0.2.jpg)
+![Image](https://github.com/BrainSoftwareRu/BrainOS/screenshots/1.0.2.jpg)
 
 BrainOC free  x86-64 OS written by Assembly, C.
 
