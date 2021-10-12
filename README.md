@@ -2,9 +2,9 @@
 BrainOC free  x86-64 OS written by Assembly, C.
 
 ## Documentation
-Read [Documentation](https://brainos.tk)
+Read [Documentation](https://brainos.ml)
 ## Build and Run
-Download [ISO-File](https://brainos.tk/download/)
+Download [ISO-File](https://brainos.ml/download/)
 ## Relase and Version
 Version: 1.0.2 (build 125)
 - Fix bugs.
@@ -16,10 +16,10 @@ ____
 BrainOC бесплатная x86-64 операционная система написанная на Ассемблере и C.
 
 ## Документация
-Читать [Документацию](https://brainos.tk)
+Читать [Документацию](https://brainos.ml)
 
 ## Сборка и запуск
-Скачать [ISO-File](https://brainos.tk/download/) и открыть на вирутальной машине.
+Скачать [ISO-File](https://brainos.ml/download/) и открыть на вирутальной машине.
 
 ## Релиз и Версия
 Версия: 1.0.2 (build 125)
