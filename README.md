@@ -1,5 +1,5 @@
 # BrainOS
-![Image]()
+![Image](https://imgur.com/a/bcI7TRG)
 
 BrainOC free  x86-64 OS written by Assembly, C.
 
