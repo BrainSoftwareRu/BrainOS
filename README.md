@@ -1,4 +1,5 @@
 # BrainOS
+![Image] (https://wampi.ru/image/Rq9UDVs)
 BrainOC free  x86-64 OS written by Assembly, C.
 
 ## Documentation
