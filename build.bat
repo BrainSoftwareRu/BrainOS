@@ -11,4 +11,5 @@ i686-elf-gcc -O2 -std=gnu99 -Wall -Wextra -ffreestanding -g -c src/start.s -o bi
 i686-elf-gcc -O2 -std=gnu99 -Wall -Wextra -ffreestanding -g -c src/kernel.c -o bin/kernel.o
 i686-elf-gcc -ffreestanding -nostdlib -g -T src/linker.ld bin/start.o bin/tty.o bin/ports.o bin/CMOS.o bin/kernel.o -o bin/mykernel.elf -lgcc
 
+
 pause
