@@ -8,10 +8,11 @@ Read [Documentation](https://brainos.ml)
 ## Build and Run
 Download [ISO-File](https://brainos.ml/download/)
 ## Release and Version
-Version: 1.0.2 (build 125)
+Version: 1.0.3 (build 147)
 - Fix bugs.
+- Data and Time
 
-Release: 12.10.21
+Release: 17.12.21
 ____
 
 # BrainOS
@@ -24,7 +25,8 @@ BrainOC бесплатная x86-64 операционная система на
 Скачать [ISO-File](https://brainos.ml/download/) и открыть на вирутальной машине.
 
 ## Релиз и Версия
-Версия: 1.0.2 (build 125)
+Версия: 1.0.3 (build 147)
 - Исправление ошибок.
+- Дата и время.
 
-Релиз: 12.10.21
+Релиз: 17.12.21
