@@ -8,11 +8,11 @@ Read [Documentation](https://brainos.ml)
 ## Build and Run
 Download [ISO-File](https://brainos.ml/download/)
 ## Release and Version
-Version: 1.0.3 (build 147)
+Version: 1.0.4 (build 167)
 - Fix bugs.
-- Data and Time
+- New Software: Calculator
 
-Release: 17.12.21
+Release: 12.01.22
 ____
 
 # BrainOS
@@ -25,8 +25,8 @@ BrainOC бесплатная x86-64 операционная система на
 Скачать [ISO-File](https://brainos.ml/download/) и открыть на вирутальной машине.
 
 ## Релиз и Версия
-Версия: 1.0.3 (build 147)
+Версия: 1.0.4 (build 167)
 - Исправление ошибок.
-- Дата и время.
+- Новый софт: Калькулятор
 
-Релиз: 17.12.21
+Релиз: 12.01.22
